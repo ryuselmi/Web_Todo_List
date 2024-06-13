@@ -56,18 +56,7 @@ ul {
   list-style: none;
   padding: 0;
 }
-
-.container #task-list .removeButton {
+.removeButton {
   color: white;
   background: red;
-}
-.todo-item {
-  background-color: #fafafa;
-  display: flex;
-  justify-content: space-between;
-  margin: 10px 0;
-  border-radius: 5px;
-  align-items: center;
-  border: 1px solid #ddd;
-  padding: 5px;
 }
