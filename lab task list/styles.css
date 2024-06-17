@@ -59,4 +59,9 @@ ul {
 .removeButton {
   color: white;
   background: red;
+  margin-right: 0;
 }
+.removeButton:hover {
+  background: rgb(241,95,95);
+}
+
